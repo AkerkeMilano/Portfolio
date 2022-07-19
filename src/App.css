@@ -1,0 +1,14 @@
+.App {
+  margin: 0 auto;
+  background: no-repeat center center fixed; 
+  background-size: cover;
+  position: relative;
+}
+
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat";
+  font-weight: 200;
+}

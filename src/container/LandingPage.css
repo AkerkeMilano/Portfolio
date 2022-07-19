@@ -1,0 +1,48 @@
+.Welcome-block{
+    height: 80vh;
+    font-size: 40px;
+}
+
+.hello-line{
+    position: absolute;
+    top: 200px;
+    left: 600px;
+    font-weight: 900;
+}
+
+
+.hello-line span{
+    color: rgb(190, 38, 38);
+    font-weight: 600;
+}
+
+.AboutMeBlock{
+    height: 80vh;
+    padding: 100px;
+}
+
+.about-me-line{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.my-photo{
+    position: absolute;
+    top: 50px;
+    left: 100px;
+
+}
+
+.my-photo img{
+    border-radius: 10px;
+}
+
+.contacts a{
+    text-decoration: none;
+    color: inherit;
+    margin: 20px;
+}
+
+.contacts{
+    margin-top: 50px;
+}

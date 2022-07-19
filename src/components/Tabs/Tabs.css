@@ -1,0 +1,12 @@
+.education-list li{
+    list-style: none;
+    margin-bottom: 20px;
+    color: rgb(59, 57, 57);
+    font-weight: 500;
+ 
+}
+
+.education-list span{
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
